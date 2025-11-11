@@ -18,8 +18,4 @@ It analyzes medical data such as **age, cholesterol, blood pressure, heart rate*
 - Scikit-learn  
 - Google Colab  
 
-## ⚙️ How to Run
-1. Mount your Google Drive in Colab:
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
+
